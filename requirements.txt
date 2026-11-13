@@ -1,0 +1,8 @@
+# Python libraries Triage needs. Install with: pip install -r requirements.txt
+# Versions are pinned so everyone gets the same setup that was tested.
+psycopg[binary]==3.3.9   # talk to PostgreSQL (Supabase)
+python-dotenv==1.2.4     # read settings and secrets from .env
+pandas==3.1.1            # work with tables of data
+pyyaml==6.0.3            # read config/settings.yaml
+requests==2.34.2         # make HTTP calls (mock ERP over Supabase REST)
+streamlit==1.67.0        # build the web app pages
