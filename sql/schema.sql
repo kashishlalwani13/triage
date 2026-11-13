@@ -26,6 +26,7 @@ create table if not exists items (
     device_description   text,                   -- real
     category             text not null check (category in ('SYRINGE', 'IV_CATHETER', 'EXAM_GLOVE')),
     base_uom             text not null default 'EA',   -- every quantity is converted to this before comparing
+    base_package_count   integer not null default 1 check (base_package_count > 0),   -- devices in the primary DI (real), e.g. 100 for a box of gloves
     item_type            text not null check (item_type in ('STOCK', 'NON_STOCK')),   -- SYNTHETIC
     unit_price           numeric(12,4) check (unit_price >= 0),   -- SYNTHETIC, price per base unit
     default_supplier_id  bigint references suppliers (supplier_id),   -- SYNTHETIC
@@ -35,12 +36,12 @@ comment on table items is 'Real FDA GUDID devices. item_type, unit_price and def
 
 -- Real GUDID package levels, e.g. a box of 50 or a case of 10 boxes.
 -- Kept separate from items because one device can come in several packages.
+-- Stored exactly as GUDID has them; the cleaned UOM code is derived in sql/build_uom_conversions.sql.
 create table if not exists item_packages (
     package_id   bigint generated always as identity primary key,
     item_id      bigint not null references items (item_id),
     package_di   text not null unique,   -- GUDID identifier of this package level
-    package_type text,                   -- as written in GUDID, e.g. 'Box', 'Case'
-    uom          text not null,          -- our short code for it, e.g. 'BX', 'CS'
+    package_type text,                   -- as written in GUDID, e.g. 'Box', 'CASE', 'cs' (messy, sometimes empty)
     quantity     integer not null check (quantity > 0),   -- how many of the next level down it holds
     contains_di  text                    -- the identifier it holds (null if GUDID doesn't say)
 );
