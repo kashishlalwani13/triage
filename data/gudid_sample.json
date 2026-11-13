@@ -1,0 +1,4152 @@
+{
+  "source": "FDA GUDID via openFDA (https://api.fda.gov/device/udi.json)",
+  "fetched_at": "2026-11-13T06:12:07+00:00",
+  "product_codes": {
+    "SYRINGE": "FMF",
+    "IV_CATHETER": "FOZ",
+    "EXAM_GLOVE": "LYZ"
+  },
+  "device_count": 201,
+  "devices": [
+    {
+      "category": "SYRINGE",
+      "primary_di": "00850060997426",
+      "brand_name": "Ceros",
+      "version_model": "RM-SN0112705",
+      "company_name": "Rhino Medical Supply Inc",
+      "device_description": "Ceros Hypo Needle & Syringe Combo, 1 mL, 27 G x 1/2\", Detachable Gray Polypropylene Hub, Latex Free, DEHP Free, PVC Free",
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10850060997423",
+          "package_type": "Inner Box",
+          "quantity": 100,
+          "contains_di": "00850060997426"
+        },
+        {
+          "package_di": "20850060997420",
+          "package_type": "Shipper Case",
+          "quantity": 8,
+          "contains_di": "10850060997423"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00818392010923",
+      "brand_name": "SOL-M\u2122 U-100 Insulin Syringe with Fixed Needle",
+      "version_model": "1612912",
+      "company_name": "Sol-Millennium Medical, Inc.",
+      "device_description": "Intended for medical purposes for the manual aspiration of insulin (U-100 Insulin Only), and for the injection of insulin into parts of the body below the surface skin.\n1ml insulin syringe with 29g x 1/2\" needle",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10818392010920",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "00818392010923"
+        },
+        {
+          "package_di": "20818392010927",
+          "package_type": "Case",
+          "quantity": 8,
+          "contains_di": "10818392010920"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "M752HCT354821",
+      "brand_name": "Stradis Medical, LLC",
+      "version_model": "HCT3548-2",
+      "company_name": "STRADIS MEDICAL LLC",
+      "device_description": "12CC SYRINGE KIT",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 20,
+      "packages": [
+        {
+          "package_di": "M752HCT354822",
+          "package_type": "inner bag",
+          "quantity": 5,
+          "contains_di": "M752HCT354821"
+        },
+        {
+          "package_di": "M752HCT354825",
+          "package_type": "outer box",
+          "quantity": 5,
+          "contains_di": "M752HCT354822"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00848340009259",
+      "brand_name": "UNBRANDED",
+      "version_model": "CS01NS",
+      "company_name": "ADVANCE MEDICAL DESIGNS, INC.",
+      "device_description": "Control Syringe",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10848340009256",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "00848340009259"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06936018500079",
+      "brand_name": "BAIXIN",
+      "version_model": "1MLLS2315",
+      "company_name": "Anhui Kangda Medical Products Co.,Ltd.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "06936018500086",
+          "package_type": "Case",
+          "quantity": 2400,
+          "contains_di": "06936018500079"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "20612479187942",
+      "brand_name": "McKesson",
+      "version_model": "102-SN310C31516P",
+      "company_name": "MCKESSON MEDICAL-SURGICAL INC.",
+      "device_description": "Insulin SYRINGE 3/10CC 31GX5/16\u201d",
+      "gmdn_term": "Intravenous insulin syringe",
+      "device_count_in_base_package": 10,
+      "packages": [
+        {
+          "package_di": "30612479187956",
+          "package_type": "Box",
+          "quantity": 10,
+          "contains_di": "20612479187942"
+        },
+        {
+          "package_di": "40612479187960",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "30612479187956"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10080196449651",
+      "brand_name": "Medline",
+      "version_model": "SYR110225",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "DBD-SYR W/NDLE,HYPODERM,LL,22GX 1\", 10ML",
+      "gmdn_term": "Non-fixed blood collection needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "40080196449652",
+          "package_type": "CASE",
+          "quantity": 400,
+          "contains_di": "30080196449655"
+        },
+        {
+          "package_di": "30080196449655",
+          "package_type": "BOX",
+          "quantity": 100,
+          "contains_di": "10080196449651"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "04035873017400",
+      "brand_name": "HSW NORM-JECT\u00ae",
+      "version_model": "4050.000V0",
+      "company_name": "Henke-Sass, Wolf GmbH",
+      "device_description": "5 ML (6 ML) HSW NORM-JECT\u00ae",
+      "gmdn_term": "Metered-delivery hypodermic syringe",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "04035873017394",
+          "package_type": "CARTON",
+          "quantity": 20,
+          "contains_di": "04035873017400"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00884450101803",
+      "brand_name": "Medallion\u00ae",
+      "version_model": "00884450101803",
+      "company_name": "Merit Medical Systems, Inc.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10884450101800",
+          "package_type": null,
+          "quantity": 25,
+          "contains_di": "00884450101803"
+        },
+        {
+          "package_di": "20884450101807",
+          "package_type": null,
+          "quantity": 4,
+          "contains_di": "10884450101800"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06971911290696",
+      "brand_name": "Micsafe",
+      "version_model": "1",
+      "company_name": "Jiangsu Micsafe Medical Tehcnology Co.,LTD.",
+      "device_description": "1ml oral syringe with cap(SEAL)",
+      "gmdn_term": "ENFit oral/enteral syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16971911290693",
+          "package_type": "box",
+          "quantity": 100,
+          "contains_di": "06971911290696"
+        },
+        {
+          "package_di": "26971911290690",
+          "package_type": "case",
+          "quantity": 800,
+          "contains_di": "06971911290696"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10888439793857",
+      "brand_name": "CARDINAL HEALTH",
+      "version_model": "SCV38O3SFA",
+      "company_name": "Cardinal Health 200, LLC",
+      "device_description": "UNQ OPEN HEART SYR 30ML PK",
+      "gmdn_term": "General surgical procedure kit, non-medicated, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50888439793855",
+          "package_type": "CASE",
+          "quantity": 54,
+          "contains_di": "10888439793857"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00884450402177",
+      "brand_name": "Medallion\u00ae",
+      "version_model": "00884450402177",
+      "company_name": "Merit Medical Systems, Inc.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20884450402171",
+          "package_type": null,
+          "quantity": 4,
+          "contains_di": "10884450402174"
+        },
+        {
+          "package_di": "10884450402174",
+          "package_type": null,
+          "quantity": 25,
+          "contains_di": "00884450402177"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "H965701274040",
+      "brand_name": "NAMIC",
+      "version_model": "70127404",
+      "company_name": "NAVILYST MEDICAL, INC.",
+      "device_description": "Polycarbonate Syringe 10mL",
+      "gmdn_term": "Angiographic syringe",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "H965701274041",
+          "package_type": "BOX",
+          "quantity": 25,
+          "contains_di": "H965701274040"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00370393504011",
+      "brand_name": "Care Touch",
+      "version_model": "LSS10",
+      "company_name": "FUTURE DIAGNOSTICS LLC",
+      "device_description": "Syringes Luer Slip 10ml",
+      "gmdn_term": "Medication transfer set",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10370393504018",
+          "package_type": null,
+          "quantity": 6,
+          "contains_di": "00370393504011"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06920756729656",
+      "brand_name": "Sterile Single-use Syringe with Needle",
+      "version_model": "3mL LS 21G\u00d71 1/4\"(0.8mm\u00d732mm)",
+      "company_name": "Jiangxi Hongda Medical Equipment Group Ltd.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16920756729653",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "06920756729656"
+        },
+        {
+          "package_di": "26920756729650",
+          "package_type": null,
+          "quantity": 24,
+          "contains_di": "16920756729653"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10192253025811",
+      "brand_name": "Monoject",
+      "version_model": "1181200777T",
+      "company_name": "Cardinal Health, Inc.",
+      "device_description": "12 mL Syringe Luer-Lock Tip",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20192253025818",
+          "package_type": "Carton",
+          "quantity": 100,
+          "contains_di": "10192253025811"
+        },
+        {
+          "package_di": "50192253025819",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "20192253025818"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10818392015796",
+      "brand_name": "SOL-M\u2122 Allergy Syringe Tray",
+      "version_model": "181027IDBT",
+      "company_name": "Sol-Millennium Medical, Inc.",
+      "device_description": "Intended to be used for medical purposes to inject fluid into or withdraw fluid from the body. 1ml Allergy Syringe with 27g x 3/8\" IDB needle tray",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 25,
+      "packages": [
+        {
+          "package_di": "20818392015793",
+          "package_type": "Case",
+          "quantity": 40,
+          "contains_di": "10818392015796"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00815277020336",
+      "brand_name": "Curaplex",
+      "version_model": "2114-04081-KIT",
+      "company_name": "BOUND TREE MEDICAL, LLC",
+      "device_description": "Curaplex LMA Kit, AuraGain, Less than 5kg, Size 1",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810071639890",
+          "package_type": "CS",
+          "quantity": 25,
+          "contains_di": "00815277020336"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00818392011258",
+      "brand_name": "SOL-CARE\u2122 Luer Lock Safety Syringe with Exchangeable Needle",
+      "version_model": "140075IM",
+      "company_name": "Sol-Millennium Medical, Inc.",
+      "device_description": "Used to inject fluids into, or withdraw fluids from the body. In addition, the device is designed to aid in the prevention of needle stick injuries. 5ml LL Safety Syringe with 21g x 1\" exchangeable needle",
+      "gmdn_term": "Hypodermic needle, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10818392011255",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "00818392011258"
+        },
+        {
+          "package_di": "20818392011252",
+          "package_type": "Case",
+          "quantity": 12,
+          "contains_di": "10818392011255"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00898302141817",
+      "brand_name": "Vet's Choice",
+      "version_model": "U-40 Insulin Syringe 29G 1cc 1/2\"",
+      "company_name": "SIMPLE DIAGNOSTICS INC",
+      "device_description": "U-40 Insulin Syringe 29G 1cc 1/2\" for pets.",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10898302141814",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "00898302141817"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06949236200645",
+      "brand_name": "Disposable Insulin Syringe",
+      "version_model": "U-100 0.3ML 31G\u00d76mm No protective end top",
+      "company_name": "Berpu Medical Technology Co.,Ltd",
+      "device_description": null,
+      "gmdn_term": "Insulin syringe/needle, safety",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "06949236201680",
+          "package_type": null,
+          "quantity": 30,
+          "contains_di": "06949236200645"
+        },
+        {
+          "package_di": "06949236201161",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "06949236200645"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00383790006972",
+      "brand_name": "Nipro Syringe",
+      "version_model": "JD+01T2609-NIJ",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": "1mL Luer Slip with attached needle 26G x 3/8\"",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790006979",
+          "package_type": "BOX",
+          "quantity": 100,
+          "contains_di": "00383790006972"
+        },
+        {
+          "package_di": "40383790006970",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "10383790006979"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10612479231723",
+      "brand_name": "McKesson",
+      "version_model": "16-SN05C2705P",
+      "company_name": "MCKESSON MEDICAL-SURGICAL INC.",
+      "device_description": "Insulin Syringe with Needle 1/2cc 27G x 1/2\"",
+      "gmdn_term": "Intravenous insulin syringe",
+      "device_count_in_base_package": 10,
+      "packages": [
+        {
+          "package_di": "40612479231748",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "20612479231737"
+        },
+        {
+          "package_di": "20612479231737",
+          "package_type": "Box",
+          "quantity": 10,
+          "contains_di": "10612479231723"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06971911299088",
+      "brand_name": "GBUK",
+      "version_model": "1",
+      "company_name": "Jiangsu Micsafe Medical Tehcnology Co.,LTD.",
+      "device_description": "Hypodermic Needle 21G*1 1/2\"",
+      "gmdn_term": "Hypodermic needle, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16971911299085",
+          "package_type": "box",
+          "quantity": 100,
+          "contains_di": "06971911299088"
+        },
+        {
+          "package_di": "26971911299082",
+          "package_type": "case",
+          "quantity": 10000,
+          "contains_di": "06971911299088"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10193489253405",
+      "brand_name": "Medline Industries, Inc.",
+      "version_model": "DNSC83557",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "SYR 6ML L/L PC BLUE",
+      "gmdn_term": "General surgical procedure kit, non-medicated, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "40193489253406",
+          "package_type": "CASE",
+          "quantity": 1200,
+          "contains_di": "10193489253405"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06920756729700",
+      "brand_name": "Sterile Single-use Syringe with Needle",
+      "version_model": "3mL LS 23G\u00d71 1/2\"(0.6mm\u00d738mm)",
+      "company_name": "Jiangxi Hongda Medical Equipment Group Ltd.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16920756729707",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "06920756729700"
+        },
+        {
+          "package_di": "26920756729704",
+          "package_type": null,
+          "quantity": 24,
+          "contains_di": "16920756729707"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00383790012515",
+      "brand_name": "relasyringe",
+      "version_model": "SYPR-03GA-WP-S-US",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": "0.3mL Precision Syringe",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790012512",
+          "package_type": "box",
+          "quantity": 6,
+          "contains_di": "00383790012515"
+        },
+        {
+          "package_di": "10383790012529",
+          "package_type": "box",
+          "quantity": 60,
+          "contains_di": "00383790012515"
+        },
+        {
+          "package_di": "20383790012519",
+          "package_type": "box",
+          "quantity": 18,
+          "contains_di": "10383790012512"
+        },
+        {
+          "package_di": "40383790012513",
+          "package_type": "case",
+          "quantity": 21,
+          "contains_di": "20383790012519"
+        },
+        {
+          "package_di": "40383790012520",
+          "package_type": "case",
+          "quantity": 48,
+          "contains_di": "10383790012529"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "H965701274240",
+      "brand_name": "NAMIC",
+      "version_model": "70127424",
+      "company_name": "NAVILYST MEDICAL, INC.",
+      "device_description": "Polycarbonate Syringe 20mL",
+      "gmdn_term": "Angiographic syringe",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "H965701274241",
+          "package_type": "BOX",
+          "quantity": 25,
+          "contains_di": "H965701274240"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00884450167731",
+      "brand_name": "Spectraline\u2122 20mL Syringe",
+      "version_model": "00884450167731",
+      "company_name": "Merit Medical Systems, Inc.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10884450167738",
+          "package_type": null,
+          "quantity": 25,
+          "contains_di": "00884450167731"
+        },
+        {
+          "package_di": "20884450167735",
+          "package_type": null,
+          "quantity": 4,
+          "contains_di": "10884450167738"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00020221262193",
+      "brand_name": "EXEL Syringes",
+      "version_model": "26219",
+      "company_name": "Exel International",
+      "device_description": "EXEL Disposable Syringe with Needle, 5mL Luer Lock Tip W/ 22Gx1-1/4\"",
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20020221262197",
+          "package_type": null,
+          "quantity": 8,
+          "contains_di": "10020221262190"
+        },
+        {
+          "package_di": "10020221262190",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "00020221262193"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00818392010848",
+      "brand_name": "SOL-M\u2122 U-100 Insulin Syringe with Fixed Needle",
+      "version_model": "1653012",
+      "company_name": "Sol-Millennium Medical, Inc.",
+      "device_description": "Intended for medical purposes for the manual aspiration of insulin (U-100 Insulin Only), and for the injection of insulin into parts of the body below the surface skin.\n0.5ml insulin syringe with 30g x 1/2\" needle",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10818392010845",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "00818392010848"
+        },
+        {
+          "package_di": "20818392010842",
+          "package_type": "Case",
+          "quantity": 8,
+          "contains_di": "10818392010845"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10193489037838",
+      "brand_name": "Medline",
+      "version_model": "SSN101272F",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "SYR W/NDLE,SAFETY,27GX0.5, 1ML",
+      "gmdn_term": "Hypodermic needle, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20193489037835",
+          "package_type": "BX",
+          "quantity": 100,
+          "contains_di": "30193489037832"
+        },
+        {
+          "package_di": "30193489037832",
+          "package_type": "CS",
+          "quantity": 1200,
+          "contains_di": "10193489037838"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "B7442259321",
+      "brand_name": "UltraFlo Insulin Syringe",
+      "version_model": "225932",
+      "company_name": "QUALITY MEDICAL PRODUCTS USA, INC.",
+      "device_description": "0.3 ML 30GX1/2\"",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "B7442259323",
+          "package_type": "Carton",
+          "quantity": 6,
+          "contains_di": "B7442259322"
+        },
+        {
+          "package_di": "B7442259322",
+          "package_type": "Inner Case",
+          "quantity": 5,
+          "contains_di": "B7442259321"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "34806017511235",
+      "brand_name": "TERUMO",
+      "version_model": "SS-05L2025",
+      "company_name": "TERUMO (PHILIPPINES) CORPORATION",
+      "device_description": "TERUMO Syringe with Needle",
+      "gmdn_term": "Metered-delivery hypodermic syringe",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "54806017511239",
+          "package_type": "Carton",
+          "quantity": 6,
+          "contains_di": "34806017511235"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "05060665920070",
+      "brand_name": "Tilcare Luer Lock tip Syringes",
+      "version_model": "LUER LOCK TIP LATEX FREE 1ML",
+      "company_name": "TILCO TRADING PTE. LTD.",
+      "device_description": "Luer lock tip Syringes 1ml",
+      "gmdn_term": "Medication transfer set",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "25060665920074",
+          "package_type": null,
+          "quantity": 800,
+          "contains_di": "05060665920070"
+        },
+        {
+          "package_di": "15060665920077",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "05060665920070"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00853155008892",
+      "brand_name": "IMed Products",
+      "version_model": "IM54087",
+      "company_name": "INTEGRATED MEDICAL SYSTEMS, INC.",
+      "device_description": "5mL Syringe with Luer Lock Tip",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10853155008899",
+          "package_type": "Inner Pack",
+          "quantity": 100,
+          "contains_di": "00853155008892"
+        },
+        {
+          "package_di": "20853155008896",
+          "package_type": "Case",
+          "quantity": 16,
+          "contains_di": "10853155008899"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "04035873017905",
+      "brand_name": "HSW NORM-JECT\u00ae",
+      "version_model": "4052S000V0",
+      "company_name": "Henke-Sass, Wolf GmbH",
+      "device_description": "5 ML (6 ML) HSW NORM-JECT\u00ae BK 0,60X25/23GX1",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "04035873017899",
+          "package_type": "CARTON",
+          "quantity": 20,
+          "contains_di": "04035873017905"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06971911294052",
+      "brand_name": "Micsafe",
+      "version_model": "1",
+      "company_name": "Jiangsu Micsafe Medical Tehcnology Co.,LTD.",
+      "device_description": "safety needle 27Gx3/4\"",
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16971911294059",
+          "package_type": "box",
+          "quantity": 100,
+          "contains_di": "06971911294052"
+        },
+        {
+          "package_di": "26971911294056",
+          "package_type": "case",
+          "quantity": 1600,
+          "contains_di": "06971911294052"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00850062218178",
+      "brand_name": "Verisafe",
+      "version_model": "MWS-032538",
+      "company_name": "Promisemed Medical Devices Inc.",
+      "device_description": "Verifine Safety Sterile Syringes have two types: Type D and type F. Type D is a Syringe with a detachable needle. Type F is a Syringe with a fixed needle.\nVerifine Safety Sterile Syringes is a sterile device consisting of a calibrated barrel with plunger and a needle.\nIt is made of plastic, stainless steel and silicone materials.\nAfter use, the needle retracts into the barrel by depressing the plunger all of the way within the barrel which minimizes the risk of accidental sharps injury.\nIt can be used by health care personnel. Product is delivered sterile. Sterilization process is validated according to EN ISO 11135. \nThis is a single-use device.",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "01850062218177",
+          "package_type": null,
+          "quantity": 50,
+          "contains_di": "00850062218178"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06949236200812",
+      "brand_name": "Disposable Insulin Syringe",
+      "version_model": "U-100 0.5ML 31G\u00d75mm Protective end top",
+      "company_name": "Berpu Medical Technology Co.,Ltd",
+      "device_description": null,
+      "gmdn_term": "Insulin syringe/needle, safety",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "06949236201857",
+          "package_type": null,
+          "quantity": 30,
+          "contains_di": "06949236200812"
+        },
+        {
+          "package_di": "06949236201338",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "06949236200812"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00383790008754",
+      "brand_name": "NIPRO DISPOSABLE SYRINGE",
+      "version_model": "JD+50L-WEI",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": "50mL Luer Lock without Needle",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790008751",
+          "package_type": "Box",
+          "quantity": 50,
+          "contains_di": "00383790008754"
+        },
+        {
+          "package_di": "40383790008752",
+          "package_type": "Case",
+          "quantity": 6,
+          "contains_di": "10383790008751"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00817584011212",
+      "brand_name": "GravityPro",
+      "version_model": "PNM-S20EOV",
+      "company_name": "NEOMED, INC.",
+      "device_description": "20mL Vented Oral / Enteral Syringe, Sterile, Purple",
+      "gmdn_term": "ENFit oral/enteral syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10817584011219",
+          "package_type": "Case",
+          "quantity": 100,
+          "contains_di": "00817584011212"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10810118890397",
+      "brand_name": "AQUILAVIE",
+      "version_model": "J10355",
+      "company_name": "Ahc Americas LLC",
+      "device_description": "Disposable Insulin Syringe, U-100, 1mL 31G 5/16\"/1CC (0.25mm x 8mm),10pcs/bag, 10bags/box, 5boxes/case, 6cases/carton",
+      "gmdn_term": "Insulin syringe/needle, safety",
+      "device_count_in_base_package": 10,
+      "packages": [
+        {
+          "package_di": "20810118890394",
+          "package_type": "Box",
+          "quantity": 10,
+          "contains_di": "10810118890397"
+        },
+        {
+          "package_di": "30810118890391",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "20810118890394"
+        },
+        {
+          "package_di": "40810118890398",
+          "package_type": "Carton",
+          "quantity": 6,
+          "contains_di": "30810118890391"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00383790011945",
+      "brand_name": "NIPRO SYRINGE",
+      "version_model": "JD+10L2025",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": "Syringe with Needle (20x1\") 10mL, luer lock",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790011942",
+          "package_type": "box",
+          "quantity": 100,
+          "contains_di": "00383790011945"
+        },
+        {
+          "package_di": "40383790011943",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "10383790011942"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "04046955596911",
+      "brand_name": "NORM-JECT\u00ae",
+      "version_model": "NJ-9166017-02",
+      "company_name": "B. BRAUN MEDICAL INC.",
+      "device_description": "NORM-JECT-F  1 ML BBRAUN AIR-TITE",
+      "gmdn_term": "Metered-delivery hypodermic syringe",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "04046955596928",
+          "package_type": "Carton",
+          "quantity": 18,
+          "contains_di": "04046955596911"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10884521013674",
+      "brand_name": "Monoject",
+      "version_model": "1188100555",
+      "company_name": "Cardinal Health, Inc.",
+      "device_description": "1 mL Insulin Syringe,Regular Luer Tip",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "30884521013678",
+          "package_type": "CASE",
+          "quantity": 500,
+          "contains_di": "10884521013674"
+        },
+        {
+          "package_di": "20884521013671",
+          "package_type": "PACK_OR_INNER_PACK",
+          "quantity": 100,
+          "contains_di": "10884521013674"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00616784698922",
+      "brand_name": "Syringe Without Needle, Non-Toxic, 5 ML, Luer Lock",
+      "version_model": "6989",
+      "company_name": "Dynarex Corporation",
+      "device_description": "Sterile-EO",
+      "gmdn_term": "Metered-delivery hypodermic syringe",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00616784698939",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00616784698922"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00383790008693",
+      "brand_name": "NIPRO DISPOSABLE SYRINGE",
+      "version_model": "JD+05L2125-WEI",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": "5mL, 21G x 1\"",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790008690",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "00383790008693"
+        },
+        {
+          "package_di": "40383790008691",
+          "package_type": "Case",
+          "quantity": 12,
+          "contains_di": "10383790008690"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10357515174397",
+      "brand_name": "UltiCare",
+      "version_model": "0439PL",
+      "company_name": "ULTIMED, INC.",
+      "device_description": ".3cc 31G 5/16",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 10,
+      "packages": [
+        {
+          "package_di": "20357515094395",
+          "package_type": "Box",
+          "quantity": 10,
+          "contains_di": "10357515174397"
+        },
+        {
+          "package_di": "20357515074397",
+          "package_type": "UltiGuard",
+          "quantity": 10,
+          "contains_di": "10357515174397"
+        },
+        {
+          "package_di": "20357515910008",
+          "package_type": "90ct-Box",
+          "quantity": 9,
+          "contains_di": "10357515174397"
+        },
+        {
+          "package_di": "20357515181323",
+          "package_type": "Healthy Accents Box",
+          "quantity": 10,
+          "contains_di": "10357515174397"
+        },
+        {
+          "package_di": "20357515084396",
+          "package_type": "Health Wise Box",
+          "quantity": 10,
+          "contains_di": "10357515174397"
+        },
+        {
+          "package_di": "20357515124399",
+          "package_type": "UltiGuard",
+          "quantity": 10,
+          "contains_di": "10357515174397"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "H965701274310",
+      "brand_name": "NAMIC",
+      "version_model": "70127431",
+      "company_name": "NAVILYST MEDICAL, INC.",
+      "device_description": "Polycarbonate Syringe 3mL",
+      "gmdn_term": "Angiographic syringe",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "H965701274311",
+          "package_type": "BOX",
+          "quantity": 25,
+          "contains_di": "H965701274310"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "04035873027706",
+      "brand_name": "HSW SOFT-JECT\u00ae",
+      "version_model": "8300005762",
+      "company_name": "Henke-Sass, Wolf GmbH",
+      "device_description": "3 ML HSW SOFT-JECT\u00ae LUER LOCK",
+      "gmdn_term": "Metered-delivery hypodermic syringe",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "04035873027690",
+          "package_type": "CARTON",
+          "quantity": 24,
+          "contains_di": "04035873027706"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00383790000680",
+      "brand_name": "NIPRO SYRINGE",
+      "version_model": "JD+01T2609",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790000687",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "00383790000680"
+        },
+        {
+          "package_di": "40383790000688",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "10383790000687"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "50801902126677",
+      "brand_name": "ARROW",
+      "version_model": "IPN040171",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "5 mL Luer-Slip Loss of Resistance Syringe",
+      "gmdn_term": "Low-resistance epidural syringe",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "60801902126674",
+          "package_type": "Case",
+          "quantity": 1,
+          "contains_di": "20801902126676"
+        },
+        {
+          "package_di": "20801902126676",
+          "package_type": "Box",
+          "quantity": 25,
+          "contains_di": "50801902126677"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00894046001783",
+      "brand_name": "Advocate Syringes 30G 1CC 5/16\" Needle",
+      "version_model": "603",
+      "company_name": "DIABETIC SUPPLY OF SUNCOAST, INC.",
+      "device_description": "Advocate Syringes for U-100 Insulin 30G 1CC 5/16\" Sterile Needle, Single Use, Sleeve of 10",
+      "gmdn_term": "Metered-delivery hypodermic syringe",
+      "device_count_in_base_package": 10,
+      "packages": [
+        {
+          "package_di": "00894046001622",
+          "package_type": "604",
+          "quantity": 10,
+          "contains_di": "00894046001783"
+        },
+        {
+          "package_di": "10894046001629",
+          "package_type": "630",
+          "quantity": 50,
+          "contains_di": "00894046001783"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06971911299095",
+      "brand_name": "GBUK",
+      "version_model": "1",
+      "company_name": "Jiangsu Micsafe Medical Tehcnology Co.,LTD.",
+      "device_description": "Hypodermic Needle 20G*1 1/2\"",
+      "gmdn_term": "Hypodermic needle, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16971911299092",
+          "package_type": "box",
+          "quantity": 100,
+          "contains_di": "06971911299095"
+        },
+        {
+          "package_di": "26971911299099",
+          "package_type": "case",
+          "quantity": 10000,
+          "contains_di": "06971911299095"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00884450125212",
+      "brand_name": "Merit Medical\u00ae",
+      "version_model": "00884450125212",
+      "company_name": "Merit Medical Systems, Inc.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10884450125219",
+          "package_type": null,
+          "quantity": 25,
+          "contains_di": "00884450125212"
+        },
+        {
+          "package_di": "20884450125216",
+          "package_type": null,
+          "quantity": 4,
+          "contains_di": "10884450125219"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10888277726727",
+      "brand_name": "Medline",
+      "version_model": "SYR105010A",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "SYRINGE, LUER LOCK, STERILE, 5ML",
+      "gmdn_term": "Phlebotomy kit",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "30888277726721",
+          "package_type": "CASE",
+          "quantity": 400,
+          "contains_di": "20888277726724"
+        },
+        {
+          "package_di": "20888277726724",
+          "package_type": "BOX",
+          "quantity": 100,
+          "contains_di": "10888277726727"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "05060665920117",
+      "brand_name": "Tilcare Luer Lock Tip Syringes",
+      "version_model": "LUER LOCK TIP LATEX FREE 5 ML",
+      "company_name": "TILCO TRADING PTE. LTD.",
+      "device_description": "Luer Lock Tip Syringes 5ml",
+      "gmdn_term": "Medication transfer set",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "25060665920111",
+          "package_type": null,
+          "quantity": 600,
+          "contains_di": "05060665920117"
+        },
+        {
+          "package_di": "15060665920114",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "05060665920117"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "G018N231010",
+      "brand_name": "Doctors Choice",
+      "version_model": "N23101",
+      "company_name": "Supply Line International Medical, LLC",
+      "device_description": "Needle LL, 23G x 1\"",
+      "gmdn_term": "Hypodermic needle, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "G018N231011",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "G018N231010"
+        },
+        {
+          "package_di": "G018N231012",
+          "package_type": "Case",
+          "quantity": 50,
+          "contains_di": "G018N231011"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06920756728765",
+      "brand_name": "Sterile Single-use Syringe with Needle",
+      "version_model": "20mL LL 21G\u00d71\" (1.2mm\u00d725mm)",
+      "company_name": "Jiangxi Hongda Medical Equipment Group Ltd.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16920756728762",
+          "package_type": null,
+          "quantity": 100,
+          "contains_di": "06920756728765"
+        },
+        {
+          "package_di": "26920756728769",
+          "package_type": null,
+          "quantity": 8,
+          "contains_di": "16920756728762"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "B2125750R1",
+      "brand_name": "Tamper Evident Cap",
+      "version_model": "57-50 R",
+      "company_name": "INTERNATIONAL MEDICAL INDUSTRIES INC.",
+      "device_description": "Red Tamper Evident Luer Lock Caps for IV Syringes. Sterile, Tray of 10. Provides Evidence of Access and maintains sterility",
+      "gmdn_term": "Luer-formatted protective cap",
+      "device_count_in_base_package": 10,
+      "packages": [
+        {
+          "package_di": "B2125750R2",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "B2125750R1"
+        },
+        {
+          "package_di": "B21257352R1",
+          "package_type": "Tyvek Pouch",
+          "quantity": 21,
+          "contains_di": "B2125750R1"
+        },
+        {
+          "package_di": "B21257352R2",
+          "package_type": "Box",
+          "quantity": 7,
+          "contains_di": "B21257352R1"
+        },
+        {
+          "package_di": "B21257351R2",
+          "package_type": "Box",
+          "quantity": 70,
+          "contains_di": "B2125750R1"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "10884389291160",
+      "brand_name": "Medline Industries, Inc.",
+      "version_model": "DNSC48894",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "SYR EAR/ULCER 2OZ BLUE",
+      "gmdn_term": "General surgical procedure kit, non-medicated, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "40884389291161",
+          "package_type": "CASE",
+          "quantity": 200,
+          "contains_di": "10884389291160"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00850011833568",
+      "brand_name": "Verifine",
+      "version_model": "ISY-7053008-100",
+      "company_name": "Promisemed Medical Devices Inc.",
+      "device_description": "The proposed device Insulin Syringe, a sterile device consisting of a calibrated barrel with plunger, is intended to be used to administer an injection of insulin to a patient subcutaneously. A non-retractable integrated needle is included. The syringe is made of plastic and silicone materials and allowing smooth plunger movement.\nThis is a single-use device. The device is the same as K193273. The purpose of the submission is to add OTC labeling.",
+      "gmdn_term": "Insulin syringe/needle, basic",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10850011833565",
+          "package_type": null,
+          "quantity": 20,
+          "contains_di": "00850011833568"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "06971911296506",
+      "brand_name": "Micsafe",
+      "version_model": "1",
+      "company_name": "Jiangsu Micsafe Medical Tehcnology Co.,LTD.",
+      "device_description": "1ml insulin syringe with 31G*1/2",
+      "gmdn_term": "General-purpose syringe/needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16971911296503",
+          "package_type": "box",
+          "quantity": 100,
+          "contains_di": "06971911296506"
+        },
+        {
+          "package_di": "26971911296500",
+          "package_type": "case",
+          "quantity": 3600,
+          "contains_di": "06971911296506"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "08800109000015",
+      "brand_name": "Profi disposable syringe",
+      "version_model": "Profi disposable syringe 1mL 23G\u00d71\"",
+      "company_name": "Shinchang Medical Co., Ltd.",
+      "device_description": "1. Disposable Syringe\n2. Intended use : To inject fluids into or withdraw fluids out of the body.\n3. Instructions for use\n1) Expose needle by removing needle cover.\n2) Inject the fluid into syringe by pulling plunger\n3) After injecting the injection fluid into the syringe, inject into disinfected area by pushing plunger.\n4) After injecting the fluid into the affected area, withdraw the syringe from needle and dispose immediately(\"Do not reuse\")\n4. Warning\n1) This product is single use device, therefore it must be disposed after its use \n2) Do not reuse after suction the medicines.\n3) Do not use individual packages that are opened or damaged because sterilization is not guaranteed.\n4) Do not use damaged or bent needle before use.\n5) Do not use the product when it finds foreign substances before use\n6) To prevent secondary contamination, open the package before use.\n7) Do not use the product except general injection purposes.\n8) Do not attempt to close the needle cover after use. If you are pierced by contaminated needle, various infections can infected\n5. Storage\nAvoid direct sunlight and store at room temperature in a dry and clean place.\n6. Caution\nFederal law restricts this device to sale by or on the order of a physician.\n7. Expiry Date : 3 years from manufacturing date",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "18800109000012",
+          "package_type": "Inner box",
+          "quantity": 100,
+          "contains_di": "08800109000015"
+        },
+        {
+          "package_di": "28800109000019",
+          "package_type": "Outer box",
+          "quantity": 3000,
+          "contains_di": "18800109000012"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "M99204010000BK3",
+      "brand_name": "Medpoint",
+      "version_model": "1",
+      "company_name": "Carelife (usa) Inc.",
+      "device_description": "Syringes only 1cc Luer Lock",
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "M99204010000BK5",
+          "package_type": "corrugate carton",
+          "quantity": 8,
+          "contains_di": "M99204010000BK3"
+        }
+      ]
+    },
+    {
+      "category": "SYRINGE",
+      "primary_di": "00884450028278",
+      "brand_name": "Medallion\u00ae",
+      "version_model": "00884450028278",
+      "company_name": "Merit Medical Systems, Inc.",
+      "device_description": null,
+      "gmdn_term": "General-purpose syringe, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20884450028272",
+          "package_type": null,
+          "quantity": 4,
+          "contains_di": "10884450028275"
+        },
+        {
+          "package_di": "10884450028275",
+          "package_type": null,
+          "quantity": 25,
+          "contains_di": "00884450028278"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "08903347003289",
+      "brand_name": "Unolok",
+      "version_model": "23 G X \u00be\"",
+      "company_name": "HINDUSTAN SYRINGES AND MEDICAL DEVICES LIMITED",
+      "device_description": "UNOLOK Luer Lock Infusion Sets,23 G X \u00be\" (0.60 X19MM )  12\" TUBE MYCO RE-ORDER # 7001-23",
+      "gmdn_term": "Venous butterfly needle/set",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "18903347003286",
+          "package_type": "BOX",
+          "quantity": 100,
+          "contains_di": "08903347003289"
+        },
+        {
+          "package_di": "28903347003283",
+          "package_type": "Carton",
+          "quantity": 10,
+          "contains_di": "18903347003286"
+        },
+        {
+          "package_di": "58903347003284",
+          "package_type": "Palet",
+          "quantity": 18,
+          "contains_di": "28903347003283"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902157123",
+      "brand_name": "ARROW",
+      "version_model": "IPN055624",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Three-Lumen CVC Kit",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902157120",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902157123"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00383790002462",
+      "brand_name": "NIPRO SCALP VEIN SET",
+      "version_model": "PR+18G19",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": null,
+      "gmdn_term": "Scalp vein needle",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10383790002469",
+          "package_type": null,
+          "quantity": 50,
+          "contains_di": "00383790002462"
+        },
+        {
+          "package_di": "40383790002460",
+          "package_type": null,
+          "quantity": 20,
+          "contains_di": "10383790002469"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902172515",
+      "brand_name": "ARROW",
+      "version_model": "IPN917418",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Arrowg+ard Blue(R) Four-Lumen CVC",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902172512",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902172515"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903835584",
+      "brand_name": "BD Nexiva",
+      "version_model": "383558",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "NEXIVA 20 GA X 1.75IN SP WITH MAXZERO",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903835589",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903835585"
+        },
+        {
+          "package_di": "30382903835585",
+          "package_type": "Shelfpack",
+          "quantity": 20,
+          "contains_di": "00382903835584"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10884521005365",
+      "brand_name": "MAHURKAR",
+      "version_model": "8832539007",
+      "company_name": "Mozarc Medical US LLC",
+      "device_description": "Acute Dual Lumen Catheter Kit,Curved Extensions",
+      "gmdn_term": "Double-lumen haemodialysis catheter, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20884521005362",
+          "package_type": "PACK_OR_INNER_PACK",
+          "quantity": 5,
+          "contains_di": "10884521005365"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00815277023542",
+      "brand_name": "Curaplex",
+      "version_model": "1612-84160",
+      "company_name": "BOUND TREE MEDICAL, LLC",
+      "device_description": "IV Catheter, ClearSafe, 24 ga x 3/4 in, Safety 50ea/bx 4bx/cs",
+      "gmdn_term": "Intravenous line recessed-needle connector",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00815277023535",
+          "package_type": null,
+          "quantity": 50,
+          "contains_di": "00815277023542"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00801741140679",
+      "brand_name": "Peripheral Catheter Insertion Kit",
+      "version_model": "F320088PT",
+      "company_name": "Bard Access Systems, Inc.",
+      "device_description": "PowerGlide 20Ga, 8cm",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10801741140676",
+          "package_type": "CA",
+          "quantity": 10,
+          "contains_di": "00801741140679"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902213591",
+      "brand_name": "ARROW",
+      "version_model": "IPN927351",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Arrowg+ard Blue(R) Large-Bore Three-Lumen CVC for High Volume Infusions",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902213598",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902213591"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00811220034641",
+      "brand_name": "PremierPro\u2122",
+      "version_model": "31T24075",
+      "company_name": "PRESTIGE AMERITECH, LTD.",
+      "device_description": "PremierPro\u2122 by MedSource TrueSafe Comfort\u00ae Safety IV Catheter, 24G x 0.75in, 1 each",
+      "gmdn_term": "Intravenous line recessed-needle connector",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00811220034658",
+          "package_type": "box",
+          "quantity": 50,
+          "contains_di": "00811220034641"
+        },
+        {
+          "package_di": "00811220034665",
+          "package_type": "case",
+          "quantity": 4,
+          "contains_di": "00811220034658"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00801741075292",
+      "brand_name": "PowerGlide Midline Catheter",
+      "version_model": "M020081",
+      "company_name": "Bard Access Systems, Inc.",
+      "device_description": "PowerGlide, 20g8 cm Full",
+      "gmdn_term": "Peripheral vascular catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801741075296",
+          "package_type": "BX",
+          "quantity": 2,
+          "contains_di": "10801741075299"
+        },
+        {
+          "package_di": "10801741075299",
+          "package_type": "CA",
+          "quantity": 5,
+          "contains_di": "00801741075292"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00801902097248",
+      "brand_name": "ARROW",
+      "version_model": "IPN030161",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pediatric Two-Lumen Central Venous Catheterization Set with Blue FlexTip(R) ARROWg+ard Blue(R) Catheter",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "30801902097249",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "00801902097248"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00801741161360",
+      "brand_name": "BD CentroVena Acute Central Venous Catheter",
+      "version_model": "1MG07320",
+      "company_name": "Bard Access Systems, Inc.",
+      "device_description": "BD ACVC, 7 F TL, 20cm, MaxBarrier",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10801741161367",
+          "package_type": "CA",
+          "quantity": 5,
+          "contains_di": "00801741161360"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903065004",
+      "brand_name": "BD Prefilled Normal Saline",
+      "version_model": "306500",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "NORMAL SALINE 10ML FILL IN 10ML SYRINGE",
+      "gmdn_term": "Vascular catheter/cannula flush solution, non-anticoagulant, non-antimicrobial",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903065009",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903065005"
+        },
+        {
+          "package_di": "30382903065005",
+          "package_type": "Pack or Inner Pack",
+          "quantity": 30,
+          "contains_di": "00382903065004"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903869008",
+      "brand_name": "Cathena",
+      "version_model": "386900",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "BD Cathena\u2122 Safety IV Catheter BD Multiguard\u2122 Technology 16 GA x 1.25 IN",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "30382903869009",
+          "package_type": "Pack or Inner Pack",
+          "quantity": 50,
+          "contains_di": "00382903869008"
+        },
+        {
+          "package_di": "50382903869003",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903869009"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "04046955745944",
+      "brand_name": "Introcan Safety \u00ae 2",
+      "version_model": "4242006-02",
+      "company_name": "B. BRAUN MEDICAL INC.",
+      "device_description": "Introcan Safety\u00ae 2 IV Catheter - 20 Ga. x 1.0 in.",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "04046955745951",
+          "package_type": "Carton",
+          "quantity": 4,
+          "contains_di": "04046955745944"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10888277667501",
+      "brand_name": "Medline",
+      "version_model": "DYNSCS16114",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "CATHETER,IV,SURESITE SLIDE,16G X 1 1/4\"",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "30888277667505",
+          "package_type": "CASE",
+          "quantity": 200,
+          "contains_di": "20888277667508"
+        },
+        {
+          "package_di": "20888277667508",
+          "package_type": "BOX",
+          "quantity": 50,
+          "contains_di": "10888277667501"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00840155408630",
+      "brand_name": "MedSource Catheters",
+      "version_model": "MS-89118",
+      "company_name": "MEDSOURCE INTERNATIONAL LLC",
+      "device_description": "PurSafe Passive Safety Catheter 18G x 1.77\"",
+      "gmdn_term": "Intravenous line recessed-needle connector",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00840155408647",
+          "package_type": "Box",
+          "quantity": 50,
+          "contains_di": "00840155408630"
+        },
+        {
+          "package_di": "00840155408654",
+          "package_type": "Case",
+          "quantity": 200,
+          "contains_di": "00840155408630"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "15019315118647",
+      "brand_name": "Jelco",
+      "version_model": "505711",
+      "company_name": "ICU MEDICAL, INC.",
+      "device_description": null,
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "55019315118645",
+          "package_type": "CARTON",
+          "quantity": 200,
+          "contains_di": "35019315118641"
+        },
+        {
+          "package_di": "35019315118641",
+          "package_type": "BOX",
+          "quantity": 50,
+          "contains_di": "15019315118647"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00886333616435",
+      "brand_name": "CAREFLOW(TM) 1 LUMEN 3FR X 200MM",
+      "version_model": "681643",
+      "company_name": "ARGON CRITICAL CARE SYSTEMS SINGAPORE PTE. LTD.",
+      "device_description": "Kits contents: Catheter 3FR OD 1.10mmx200mm, J guidewire OD 0.46x450mm, Steel Introducer 22G OD 0.75mmx40mm,Dilator4Fr OD1.27mmx0.51mm",
+      "gmdn_term": "Vascular catheter introduction set, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50886333616430",
+          "package_type": "Tyvek Tray",
+          "quantity": 100,
+          "contains_di": "00886333616435"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "08032248385252",
+      "brand_name": "DELTAVEN",
+      "version_model": "3852572",
+      "company_name": "DELTA MED SPA",
+      "device_description": "Safety I.V Catheter in PUR with closed system , Y final adapter and 2 detachable needle less valve",
+      "gmdn_term": "Peripheral vascular catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "58032248385257",
+          "package_type": "BOX",
+          "quantity": 4,
+          "contains_di": "38032248385253"
+        },
+        {
+          "package_di": "38032248385253",
+          "package_type": "CASE",
+          "quantity": 20,
+          "contains_di": "08032248385252"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00886333616534",
+      "brand_name": "CAREFLOW(TM) 2 LUMEN 4FR X 150MM",
+      "version_model": "681653",
+      "company_name": "ARGON CRITICAL CARE SYSTEMS SINGAPORE PTE. LTD.",
+      "device_description": "Kits Contents : Catheter 4FR OD 1.45mmx150mm; J guidewire OD 0.46mmx450mm, Steel Needle Introducer 22G OD 0.75mmx40mm; Overneedle Introducer 20G OD 1.07mmx45mm, Dilator 5FR OD 1.7mm ID 0.66mm & Syringe 5ml.",
+      "gmdn_term": "Vascular catheter introduction set, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50886333616539",
+          "package_type": "Tyvek Tray",
+          "quantity": 50,
+          "contains_di": "00886333616534"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903819546",
+      "brand_name": "Insyte Autoguard",
+      "version_model": "381954",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "BD Insyte\u2122 Autoguard\u2122 Winged Shielded IV Catheter 16 GA x 1.16IN",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903819541",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903819547"
+        },
+        {
+          "package_di": "30382903819547",
+          "package_type": "Pack or Inner Pack",
+          "quantity": 50,
+          "contains_di": "00382903819546"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "04046955746149",
+      "brand_name": "Introcan Safety \u00ae 2",
+      "version_model": "4242011-02",
+      "company_name": "B. BRAUN MEDICAL INC.",
+      "device_description": "INTROCAN SAFETY 2 W PUR 20GX50MM - US",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "04046955746156",
+          "package_type": "Carton",
+          "quantity": 4,
+          "contains_di": "04046955746149"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00886333616626",
+      "brand_name": "CAREFLOW(TM) 1 LUMEN 5FR X 150MM",
+      "version_model": "681662",
+      "company_name": "ARGON CRITICAL CARE SYSTEMS SINGAPORE PTE. LTD.",
+      "device_description": "Kits Contents : Catheter 5FR OD 1.75mmx150mm; J guidewire OD 0.9mmx450mm, Secondary Fixation Device, Steel Needle Introducer 17G OD 1.4mmx70mm; Overneedle Introducer 16G OD1.7mmx70mm, Dilator 8FR OD 2.69mm ID 0.96mm & Syringe 5ml.",
+      "gmdn_term": "Vascular catheter introduction set, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50886333616621",
+          "package_type": "Tyvek Tray",
+          "quantity": 50,
+          "contains_di": "00886333616626"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "04046964825996",
+      "brand_name": "INTROCAN SAFETY\u00ae",
+      "version_model": "4251621-02",
+      "company_name": "B. BRAUN MEDICAL INC.",
+      "device_description": "Introcan Safety\u00ae Deep  Access IV Catheters, 20GA, 2.5in.",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "04046964826009",
+          "package_type": "Carton",
+          "quantity": 4,
+          "contains_di": "04046964825996"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00886333617326",
+      "brand_name": "CAREFLOW(TM) 4 LUMEN 8.5FR X 150MM",
+      "version_model": "681732",
+      "company_name": "ARGON CRITICAL CARE SYSTEMS SINGAPORE PTE. LTD.",
+      "device_description": "Kits Contents : Catheter 8.5FR OD 2.90mmx150mm; J guidewire OD 0.9mmx450mm, Secondary Fixation Device, Steel Needle Introducer 17G OD 1.4mmx70mm; Floswitch(TM) Overneedle Introducer 15G OD 1.7mmx70mm, Dilator 9FR OD 3.0mm ID 0.96mm & Floswitch(TM) & Scalpel.",
+      "gmdn_term": "Vascular catheter introduction set, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50886333617321",
+          "package_type": "Tyvek Tray",
+          "quantity": 50,
+          "contains_di": "00886333617326"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00801741152450",
+      "brand_name": "PowerGlide Pro",
+      "version_model": "F118100TX",
+      "company_name": "Bard Access Systems, Inc.",
+      "device_description": "PG Pro 18G 10cm RT Basic W/NG",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801741152454",
+          "package_type": "BX",
+          "quantity": 2,
+          "contains_di": "10801741152457"
+        },
+        {
+          "package_di": "10801741152457",
+          "package_type": "CA",
+          "quantity": 5,
+          "contains_di": "00801741152450"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00849884005479",
+      "brand_name": "VYGON",
+      "version_model": "VYLFM1003",
+      "company_name": "Vygon Corporation",
+      "device_description": "3cm LEADERFLEX MINI (24Ga)",
+      "gmdn_term": "Peripherally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50849884005474",
+          "package_type": null,
+          "quantity": 110,
+          "contains_di": "30849884005470"
+        },
+        {
+          "package_di": "30849884005470",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "00849884005479"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "34987350705700",
+      "brand_name": "SURSHIELD",
+      "version_model": "SR*SFF2025A",
+      "company_name": "TERUMO CORPORATION",
+      "device_description": "SURSHIELD-PUR SAFETY I.V.Catheter",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "54987350705704",
+          "package_type": "Carton",
+          "quantity": 4,
+          "contains_di": "34987350705700"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00876604001350",
+      "brand_name": "Orion II",
+      "version_model": "A33-05113",
+      "company_name": "Health Line International Corporation",
+      "device_description": "16Ga x 13 cm Single Lumen Orion II CT CVC Kit",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20876604001354",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "10876604001357"
+        },
+        {
+          "package_di": "10876604001357",
+          "package_type": "Inner Pack",
+          "quantity": 5,
+          "contains_di": "00876604001350"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903829347",
+      "brand_name": "Insyte Autoguard",
+      "version_model": "382934",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "BD Insyte\u2122 Autoguard\u2122 BC Pro Winged Shielded IV Catheter Blood Control Technology 20 GA x 1.16 IN",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903829342",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903829348"
+        },
+        {
+          "package_di": "30382903829348",
+          "package_type": "Pack or Inner Pack",
+          "quantity": 50,
+          "contains_di": "00382903829347"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903868940",
+      "brand_name": "BD Cathena\u2122 Safety IV Catheter",
+      "version_model": "386894",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "BD Cathena\u2122 Safety IV Catheter with Wings 20 GA x 1.00 IN",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903868945",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903868941"
+        },
+        {
+          "package_di": "30382903868941",
+          "package_type": "Shelfpack",
+          "quantity": 30,
+          "contains_di": "00382903868940"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "B33919580020",
+      "brand_name": "V-Lock",
+      "version_model": "1958-002",
+      "company_name": "Neo Medical Inc.",
+      "device_description": "Catheter Securement Change Kit",
+      "gmdn_term": "Medical/surgical interventional tube/cable securement clip, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "B33919580025",
+          "package_type": "Case",
+          "quantity": 50,
+          "contains_di": "B33919580020"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00383790009645",
+      "brand_name": "NIPRO SAFETOUCH IV CATHETER",
+      "version_model": "NI-CSF2032PWET",
+      "company_name": "NIPRO MEDICAL CORPORATION",
+      "device_description": "20G x 1 1/4\u201d, Winged, 54 ml/min",
+      "gmdn_term": "Peripheral vascular catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "40383790009643",
+          "package_type": "CASE",
+          "quantity": 40,
+          "contains_di": "10383790009642"
+        },
+        {
+          "package_di": "10383790009642",
+          "package_type": "BOX",
+          "quantity": 50,
+          "contains_di": "00383790009645"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "15019517078411",
+      "brand_name": "Jelco",
+      "version_model": "3265",
+      "company_name": "ICU MEDICAL, INC.",
+      "device_description": "GTIN for VIAVALVE 18G X 1 1/4 Z 1EA",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "35019517078415",
+          "package_type": "Bag",
+          "quantity": 50,
+          "contains_di": "15019517078411"
+        },
+        {
+          "package_di": "55019517078419",
+          "package_type": "Carton",
+          "quantity": 200,
+          "contains_di": "35019517078415"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902205695",
+      "brand_name": "ARROW",
+      "version_model": "IPN923108",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Arrowg+ard Blue Plus(R) Three-Lumen CVC Kit",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902205692",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902205695"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "08498840010396",
+      "brand_name": "VYGON",
+      "version_model": "VYLF1004",
+      "company_name": "Vygon Corporation",
+      "device_description": "4CM LEADERFLEX BASIC INSERTION TRAY",
+      "gmdn_term": "Peripherally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "38498840010397",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "08498840010396"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "34987350747519",
+      "brand_name": "SURFLASH",
+      "version_model": "SR*FF1832",
+      "company_name": "TERUMO CORPORATION",
+      "device_description": "SURFLASH I.V. catheter",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "54987350747513",
+          "package_type": null,
+          "quantity": 4,
+          "contains_di": "34987350747519"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "04046964826023",
+      "brand_name": "INTROCAN SAFETY\u00ae",
+      "version_model": "4251622-02",
+      "company_name": "B. BRAUN MEDICAL INC.",
+      "device_description": "Introcan Safety\u00ae Deep  Access IV Catheters, 22GA, 2.5in.",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "04046964826030",
+          "package_type": "Carton",
+          "quantity": 4,
+          "contains_di": "04046964826023"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903813117",
+      "brand_name": "BD Insyte-N",
+      "version_model": "381311",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "INSYTE-N WINGED YEL 24GA X 0.56IN",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903813112",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903813118"
+        },
+        {
+          "package_di": "30382903813118",
+          "package_type": "Shelfpack",
+          "quantity": 50,
+          "contains_di": "00382903813117"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902097207",
+      "brand_name": "ARROW",
+      "version_model": "IPN030140",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Central Venous Catheterization Set with Blue FlexTip(R) ARROWg+ard Blue(R) Catheter",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902097204",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10801902097207"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902206784",
+      "brand_name": "ARROW",
+      "version_model": "IPN923734",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Arrowg+ard Blue Plus(R) Three-Lumen CVC Kit",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902206781",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902206784"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902009071",
+      "brand_name": "ARROW",
+      "version_model": "IPN030124",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Multi-Lumen Central Venous Catheterization Set with Blue FlexTip(R) ARROWg+ard Blue(R) Catheter",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902009078",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902009071"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "08032248383142",
+      "brand_name": "Deltaven Fast Flash",
+      "version_model": "3831473",
+      "company_name": "DELTA MED SPA",
+      "device_description": "Safety IV catheter in PUR with closed system, dual entry with two needleless valves",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "38032248383143",
+          "package_type": "CASE",
+          "quantity": 25,
+          "contains_di": "08032248383142"
+        },
+        {
+          "package_di": "58032248383147",
+          "package_type": "BOX",
+          "quantity": 4,
+          "contains_di": "38032248383143"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "18800055100439",
+      "brand_name": "MF SAFECATH",
+      "version_model": "SS203",
+      "company_name": "Medifirst co., ltd.",
+      "device_description": null,
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "28800055100436",
+          "package_type": "Case",
+          "quantity": 200,
+          "contains_di": "18800055100439"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10612479268460",
+      "brand_name": "McKesson",
+      "version_model": "200-IVR20114",
+      "company_name": "MCKESSON MEDICAL-SURGICAL INC.",
+      "device_description": "IV Catheter, Safety, Push button, Pink, 20G x 1.16\"",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20612479268474",
+          "package_type": "Box",
+          "quantity": 50,
+          "contains_di": "10612479268460"
+        },
+        {
+          "package_di": "40612479268485",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "20612479268474"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902213614",
+      "brand_name": "ARROW",
+      "version_model": "IPN927353",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Arrowg+ard Blue(R) Large-Bore Three-Lumen CVC for High Volume Infusions",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902213611",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902213614"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902057041",
+      "brand_name": "ARROW",
+      "version_model": "IPN030911",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "8.5 FR x 11 cm Quad-Lumen Central Venous Catheterization Set with Blue FlexTip(R) ARROWg+ard Blue (R) Catheter",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902057048",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10801902057041"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902114058",
+      "brand_name": "ARROW",
+      "version_model": "IPN037257",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Arrowg+ard Blue Plus(R) Three-Lumen CVC Kit",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902114055",
+          "package_type": "Case",
+          "quantity": 3,
+          "contains_di": "10801902114058"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902160970",
+      "brand_name": "ARROW",
+      "version_model": "IPN056267",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Arrowg+ard Blue Plus(R) Three-Lumen CVC Kit",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902160977",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902160970"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902179293",
+      "brand_name": "ARROW",
+      "version_model": "IPN918401",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Arrowg+ard Blue(R) MAC(TM) Two-Lumen Central Venous Access Kit Cath-Gard(R) for use with 7.5 - 8 Fr. Catheters",
+      "gmdn_term": "Vascular catheter introduction set, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902179290",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902179293"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00801741140662",
+      "brand_name": "Peripheral Catheter Insertion Kit",
+      "version_model": "F318108PT",
+      "company_name": "Bard Access Systems, Inc.",
+      "device_description": "PowerGlide 18Ga, 10cm",
+      "gmdn_term": "Peripheral vascular intervention infusion catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10801741140669",
+          "package_type": "CA",
+          "quantity": 10,
+          "contains_di": "00801741140662"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00816703020739",
+      "brand_name": "MedSource TrueSafe Comfort Safety IV Catheter 24g 0.75\"",
+      "version_model": "MS-84324",
+      "company_name": "MEDSOURCE INTERNATIONAL LLC",
+      "device_description": "TrueSafe Comfort Safety IV Catheter 24g 0.75\"",
+      "gmdn_term": "Intravenous line recessed-needle connector",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10816703020736",
+          "package_type": "Box",
+          "quantity": 50,
+          "contains_di": "00816703020739"
+        },
+        {
+          "package_di": "20816703020733",
+          "package_type": "Case",
+          "quantity": 200,
+          "contains_di": "00816703020739"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902149272",
+      "brand_name": "ARROW",
+      "version_model": "IPN054707",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Two-Lumen Central Venous Catheterization Set with Blue FlexTip(R) ARROWg+ard Blue(R) Catheter",
+      "gmdn_term": "Centrally-inserted central venous catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902149279",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902149272"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00840155409309",
+      "brand_name": "MedSource Catheters",
+      "version_model": "MS-86222",
+      "company_name": "MEDSOURCE INTERNATIONAL LLC",
+      "device_description": "ClearSafe Comfort Blood Control 22G x 1\u201d",
+      "gmdn_term": "Intravenous line recessed-needle connector",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00840155409316",
+          "package_type": "Box",
+          "quantity": 50,
+          "contains_di": "00840155409309"
+        },
+        {
+          "package_di": "00840155409323",
+          "package_type": "Case",
+          "quantity": 200,
+          "contains_di": "00840155409309"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902118940",
+      "brand_name": "ARROW",
+      "version_model": "IPN032814",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Arrowg+ard Blue Plus(R) Three-Lumen CVC Kit",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "40801902118941",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902118940"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "08032248381421",
+      "brand_name": "DELTAVEN",
+      "version_model": "3814272",
+      "company_name": "DELTA MED SPA",
+      "device_description": "Safety IV Catheter in PUR with closed system and detachable cap",
+      "gmdn_term": "Peripheral vascular catheter",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "58032248381426",
+          "package_type": "BOX",
+          "quantity": 4,
+          "contains_di": "38032248381422"
+        },
+        {
+          "package_di": "38032248381422",
+          "package_type": "CASE",
+          "quantity": 25,
+          "contains_di": "08032248381421"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00884908182736",
+      "brand_name": "Tri-Flow",
+      "version_model": "MCDLT3-4400",
+      "company_name": "Medical Components, Inc.",
+      "device_description": "11.5F X 20CM Tri-Flow TRIPLE LUMEN CATHETER FULL TRAY",
+      "gmdn_term": "Double-lumen haemodialysis catheter, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50884908182731",
+          "package_type": "box",
+          "quantity": 5,
+          "contains_di": "00884908182736"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903065516",
+      "brand_name": "BD PosiFlush, BD",
+      "version_model": "306551",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "SYRINGE 10ML REG PR SALINE 10ML FILL BPC",
+      "gmdn_term": "Vascular catheter/cannula flush solution, non-anticoagulant, non-antimicrobial",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "30382903065517",
+          "package_type": "Pack or Inner Pack",
+          "quantity": 30,
+          "contains_di": "00382903065516"
+        },
+        {
+          "package_di": "50382903065511",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903065517"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00816703020708",
+      "brand_name": "MedSource TrueSafe Comfort Safety IV Catheter 20g 1.88\"",
+      "version_model": "MS-84320",
+      "company_name": "MEDSOURCE INTERNATIONAL LLC",
+      "device_description": "TrueSafe Comfort Safety IV Catheter 20g 1.88\"",
+      "gmdn_term": "Intravenous line recessed-needle connector",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10816703020705",
+          "package_type": "Box",
+          "quantity": 50,
+          "contains_di": "00816703020708"
+        },
+        {
+          "package_di": "20816703020702",
+          "package_type": "Case",
+          "quantity": 200,
+          "contains_di": "00816703020708"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902203240",
+      "brand_name": "ARROW",
+      "version_model": "IPN922917",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "MAC(TM) Two-Lumen Central Venous Access Kit for use with 7.5 - 8 Fr. Catheters",
+      "gmdn_term": "Vascular catheter introduction set, nonimplantable",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902203247",
+          "package_type": "Case",
+          "quantity": 3,
+          "contains_di": "10801902203240"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902163643",
+      "brand_name": "ARROW",
+      "version_model": "IPN056544",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": "Pressure Injectable Arrowg+ard Blue Plus(R) Three-Lumen CVC Kit",
+      "gmdn_term": "Central venous catheterization kit, short-term",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902163640",
+          "package_type": "Case",
+          "quantity": 5,
+          "contains_di": "10801902163643"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "08032248381148",
+      "brand_name": "Deltaven Fast Flash",
+      "version_model": "3811473",
+      "company_name": "DELTA MED SPA",
+      "device_description": "Safety IV catheter in PUR with closed system, dual entry with two needleless valves",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "38032248381149",
+          "package_type": "CASE",
+          "quantity": 25,
+          "contains_di": "08032248381148"
+        },
+        {
+          "package_di": "58032248381143",
+          "package_type": "BOX",
+          "quantity": 4,
+          "contains_di": "38032248381149"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00817617027807",
+      "brand_name": "Curaplex",
+      "version_model": "670145-KIT",
+      "company_name": "BOUND TREE MEDICAL, LLC",
+      "device_description": "Curaplex PneumoFix Chest Decompression Kit",
+      "gmdn_term": "Cricothyrotomy kit, single-use",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810094570965",
+          "package_type": "CS",
+          "quantity": 25,
+          "contains_di": "00817617027807"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "00382903813575",
+      "brand_name": "BD Insyte-W",
+      "version_model": "381357",
+      "company_name": "BECTON, DICKINSON AND COMPANY",
+      "device_description": "INSYTE-W WINGED GRAY 16GA X 1.77IN",
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "50382903813570",
+          "package_type": "Case",
+          "quantity": 4,
+          "contains_di": "30382903813576"
+        },
+        {
+          "package_di": "30382903813576",
+          "package_type": "Shelfpack",
+          "quantity": 50,
+          "contains_di": "00382903813575"
+        }
+      ]
+    },
+    {
+      "category": "IV_CATHETER",
+      "primary_di": "10801902219579",
+      "brand_name": "ARROW",
+      "version_model": "EDC-00822-HB",
+      "company_name": "TELEFLEX INCORPORATED",
+      "device_description": null,
+      "gmdn_term": "Peripheral intravenous cannula",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "20801902219576",
+          "package_type": "CS",
+          "quantity": 5,
+          "contains_di": "10801902219579"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850084857324",
+      "brand_name": "MedClick",
+      "version_model": "MC-VGPF-3014",
+      "company_name": "MedClick LLC",
+      "device_description": null,
+      "gmdn_term": "Surgical/examination garment kit",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00850084857126",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00850084857324"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00860010283608",
+      "brand_name": "STARFLEX",
+      "version_model": "SF2-S-VNY-CLR",
+      "company_name": "Starlion Electronics Distribution, LLC",
+      "device_description": null,
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00860010283615",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "00860010283608"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10686864046384",
+      "brand_name": "Medicom AssureTouch Shield",
+      "version_model": "9994-B",
+      "company_name": "AMD Medicom Inc",
+      "device_description": "Medicom AssureTouch Shield - Vinyl Medical Examination Gloves - Powder Free - Non-Sterile - Clear - Medium",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20686864046381",
+          "package_type": "Outer Case",
+          "quantity": 10,
+          "contains_di": "10686864046384"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10686864015618",
+      "brand_name": "Medicom AssureTouch Shield",
+      "version_model": "9994-A",
+      "company_name": "AMD Medicom Inc",
+      "device_description": "Medicom AssureTouch Shield - Vinyl Medical Examination Gloves - Powder Free - Non-Sterile - Clear - Small",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20686864015615",
+          "package_type": "Outer Case",
+          "quantity": 10,
+          "contains_di": "10686864015618"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00840408423243",
+      "brand_name": "Life Guard",
+      "version_model": "2324",
+      "company_name": "Lifeguard Inc.",
+      "device_description": "Vinyl Powder Free Examination Gloves Stretch Large",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20840408423247",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00840408423243"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00368001109079",
+      "brand_name": "Amerisource Bergen",
+      "version_model": "10907",
+      "company_name": "BP PHARMACEUTICALS LABORATORIES UNLIMITED COMPANY",
+      "device_description": "Vinyl Exam Gloves (Powder Free) Size: Large",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "60368001109071",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00368001109079"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850028934272",
+      "brand_name": "Schneider",
+      "version_model": "VSFB3002",
+      "company_name": "Avatech Corp.",
+      "device_description": "Schneider Disposable Powder-Free Vinyl Synthetic Exam Gloves, Blue, VSFB3002, 100ct Box, Size Medium",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810112471168",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00850028934272"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810572000885",
+      "brand_name": "OmniTrustTM",
+      "version_model": "313-13",
+      "company_name": "Omni International Corp.",
+      "device_description": "Vinyl Examination Glove Powder Free Large",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 150,
+      "packages": [
+        {
+          "package_di": "50810572000880",
+          "package_type": "Shipper Carton",
+          "quantity": 10,
+          "contains_di": "00810572000885"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00368001109116",
+      "brand_name": "AmerisourceBergen",
+      "version_model": "10911",
+      "company_name": "BP PHARMACEUTICALS LABORATORIES UNLIMITED COMPANY",
+      "device_description": "Vinyl Exam Gloves Stretch Powder Free (Large)",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 150,
+      "packages": [
+        {
+          "package_di": "60368001109118",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00368001109116"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10840330701959",
+      "brand_name": "ProCure",
+      "version_model": "PC430",
+      "company_name": "Twin Med, LLC",
+      "device_description": "Gloves, Stretch Vinyl, Exam, PF, X-Large, 100ea/bx 10bx/cs",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "30840330701953",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10840330701959"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10815555020550",
+      "brand_name": "Cypress",
+      "version_model": "25-910",
+      "company_name": "MCKESSON MEDICAL-SURGICAL INC.",
+      "device_description": "GLOVE, VINYL TRILON 2000 PF SYNTHETIC, XS",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20815555020557",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10815555020550"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810073734982",
+      "brand_name": "Wise Choice",
+      "version_model": "34104",
+      "company_name": "Vanguard International Solutions, LLC",
+      "device_description": "Vinyl Powder-Free Exam Gloves - XL",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810073734999",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "00810073734982"
+        },
+        {
+          "package_di": "00810073735002",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00810073734999"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00763256005457",
+      "brand_name": "MEDHANDLER",
+      "version_model": "39450545",
+      "company_name": "Foodhandler Inc.",
+      "device_description": "Medhandler OneSafe Vinyl PF gloves MED 4/200",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 200,
+      "packages": [
+        {
+          "package_di": "10763256005454",
+          "package_type": "CASE",
+          "quantity": 4,
+          "contains_di": "00763256005457"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00852039000212",
+      "brand_name": "NeuSkin",
+      "version_model": "MG300XS",
+      "company_name": "Medgluv Inc.",
+      "device_description": "NeuSkin Vinyl Exam Gloves, Clear, Extra Small",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00852039000809",
+          "package_type": "100/bx, 10bx/cs",
+          "quantity": 10,
+          "contains_di": "00852039000212"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "20885632064569",
+      "brand_name": "MediChoice",
+      "version_model": "GLV4101",
+      "company_name": "OWENS & MINOR DISTRIBUTION, INC.",
+      "device_description": "Exam Glove Stretch Vinyl Made With Dotp 9.5 Inch Disposable Non-sterile Powder-free Amidextrous Beaded Cuff Smooth Finish Stretch Vinyl (polyvinyl Chloride) Small Beige MediChoice",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 150,
+      "packages": [
+        {
+          "package_di": "30885632064566",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "20885632064569"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00755676000884",
+      "brand_name": "ADI Medical",
+      "version_model": "10197",
+      "company_name": "ADI Medical",
+      "device_description": "Dynatouch Vinyl Exam Gloves - Powder Free, Cuffed, Medium, 50/pack, 30 packs/case",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10755676000881",
+          "package_type": null,
+          "quantity": 1500,
+          "contains_di": "00755676000884"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810206691601",
+      "brand_name": "Basic",
+      "version_model": "SMPF3001",
+      "company_name": "BASIC MEDICAL TECHNOLOGY INC.",
+      "device_description": "Vinyl Synmax Exam Gloves",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10810206691608",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "00810206691601"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00811114031077",
+      "brand_name": "Reflex",
+      "version_model": "RF500M",
+      "company_name": "Unisafe Inc.",
+      "device_description": "Powder-Free Vinyl Examination Gloves",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00811114031114",
+          "package_type": "Shipper Carton",
+          "quantity": 10,
+          "contains_di": "00811114031077"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850028934623",
+      "brand_name": "Schneider",
+      "version_model": "VSFB3012",
+      "company_name": "Avatech Corp.",
+      "device_description": "Schneider Disposable Powder-Free Vinyl Synthetic Exam Gloves, 4 mil, Blue, VSFB3012, 50ct Box, Size M",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810112471229",
+          "package_type": "Case",
+          "quantity": 20,
+          "contains_di": "00850028934623"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810206691182",
+      "brand_name": "Basic",
+      "version_model": "BMPF2017",
+      "company_name": "BASIC MEDICAL TECHNOLOGY INC.",
+      "device_description": "Vinyl Synmax Exam Gloves",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 200,
+      "packages": [
+        {
+          "package_di": "10810206691189",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "00810206691182"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00072288154454",
+      "brand_name": "AmerCareRoyal Neil Powder-Free Synthetic Exam Gloves",
+      "version_model": "N5326",
+      "company_name": "Amercareroyal, LLC",
+      "device_description": null,
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00072288154447",
+          "package_type": "Carton",
+          "quantity": 10,
+          "contains_di": "00072288154454"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10304040101268",
+      "brand_name": "Criterion PF Vinyl Glove",
+      "version_model": "5700087",
+      "company_name": "HENRY SCHEIN, INC.",
+      "device_description": "Criterion PF Vinyl Glove X-SMALL",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20304040101265",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "10304040101268"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10813172021615",
+      "brand_name": "DermAssist\u00ae Stretch",
+      "version_model": "162300",
+      "company_name": "INNOVATIVE HEALTHCARE CORPORATION",
+      "device_description": "Gloves, Exam, Stretch Vinyl, Non-Sterile, Powder-Free, L",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20813172021612",
+          "package_type": "100/bx, 10 bx/cs",
+          "quantity": 10,
+          "contains_di": "10813172021615"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00072288154355",
+      "brand_name": "AmerCareRoyal Neil Powder-Free Vinyl Exam Gloves",
+      "version_model": "N9117",
+      "company_name": "Amercareroyal, LLC",
+      "device_description": null,
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00072288154348",
+          "package_type": "Carton",
+          "quantity": 10,
+          "contains_di": "00072288154355"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810572002247",
+      "brand_name": "OmniTrust",
+      "version_model": "315-14",
+      "company_name": "Omni International Corp.",
+      "device_description": "OmniTrust Vinyl Examination Gloves, X-Large",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "50810572002242",
+          "package_type": "Shipper Carton",
+          "quantity": 10,
+          "contains_di": "00810572002247"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10304040138950",
+      "brand_name": "Essentials",
+      "version_model": "5702228",
+      "company_name": "HENRY SCHEIN, INC.",
+      "device_description": "Essentials Vinyl Blue Glove",
+      "gmdn_term": "Face splash shield, single-use",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20304040138957",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10304040138950"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10850044355836",
+      "brand_name": "sunnycare",
+      "version_model": "7602",
+      "company_name": "Agio Group Inc.",
+      "device_description": "SUNNYCARE brand vinyl examination gloves powder free  clear  medium size  100pcs/box 10 boxes/case",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20850044355833",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "10850044355836"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00811033010887",
+      "brand_name": "AmerCareRoyal Chameleon Powder-Free Synthetic Exam Gloves",
+      "version_model": "12002",
+      "company_name": "Amercareroyal, LLC",
+      "device_description": null,
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00811033010894",
+          "package_type": "Carton",
+          "quantity": 10,
+          "contains_di": "00811033010887"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10815555020598",
+      "brand_name": "Cypress",
+      "version_model": "25-990",
+      "company_name": "MCKESSON MEDICAL-SURGICAL INC.",
+      "device_description": "GLOVE, VINYL TRILON 2000 PF SYNTHETIC, XL",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "20815555020595",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10815555020598"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "30885632056721",
+      "brand_name": "MediChoice",
+      "version_model": "GLV4502",
+      "company_name": "OWENS & MINOR DISTRIBUTION, INC.",
+      "device_description": "Glove Exam Synthetic Vinyl 9.5-inch Cuff Non-sterile Ambidextrous Powder-free Smooth Supervinyl Medium MediChoice",
+      "gmdn_term": "Hevea-latex examination/treatment glove, non-powdered, non-antimicrobial",
+      "device_count_in_base_package": 150,
+      "packages": [
+        {
+          "package_di": "20885632056724",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "30885632056721"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00884389102223",
+      "brand_name": "MEDLINE",
+      "version_model": "MDS1285",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "GLOVE, EXAM, NITRILE, EXTD CUFF,LF,M",
+      "gmdn_term": "Nitrile examination/treatment glove, non-powdered, non-antimicrobial",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "40884389102221",
+          "package_type": "CS",
+          "quantity": 10,
+          "contains_di": "00884389102223"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "20818634020066",
+      "brand_name": "Bosma Enterprises",
+      "version_model": "72-90604",
+      "company_name": "Bosma Enterprises",
+      "device_description": "Vinyl Powder Free Exam Gloves Extra Large 100/Box",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "30818634020063",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "20818634020066"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850028934630",
+      "brand_name": "Schneider",
+      "version_model": "VSFB3013",
+      "company_name": "Avatech Corp.",
+      "device_description": "Schneider Disposable Powder-Free Vinyl Synthetic Exam Gloves, 4 mil, Blue, VSFB3013, 50ct Box, Size L",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810112471236",
+          "package_type": "Case",
+          "quantity": 20,
+          "contains_di": "00850028934630"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850022371363",
+      "brand_name": "PrimaPro",
+      "version_model": "413-45",
+      "company_name": "PRIMARY PRODUCTS COMPANY",
+      "device_description": "PrimaPro GentleGuard Vinyl Powder Free Examination Glove Large, 100 Gloves/Box, 10 Box/Case, 1,000 Gloves/Case, Ambidextrous, Beaded Cuff, Non-Sterile, Single Use",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10850022371360",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00850022371363"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00080196764078",
+      "brand_name": "MEDLINE",
+      "version_model": "MDS195175",
+      "company_name": "MEDLINE INDUSTRIES, INC.",
+      "device_description": "GLOVE,EXAM,SYNTHETIC,ALOETOUCH 3G,PF,M",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "40080196764076",
+          "package_type": "CS",
+          "quantity": 10,
+          "contains_di": "00080196764078"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00818566011091",
+      "brand_name": "PremierPro",
+      "version_model": "4092",
+      "company_name": "PRESTIGE AMERITECH, LTD.",
+      "device_description": "PremierPro Powder Free Platinum Stretch Vinyl Exam Glove Small 100 count",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10818566011098",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "00818566011091"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "04712832880632",
+      "brand_name": "SafeHealth",
+      "version_model": "SVF4C4",
+      "company_name": "PM GLOVES U S A INC",
+      "device_description": "VINYL EXAMINATION GLOVES, Clear (L)",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "04712832881011",
+          "package_type": "Case",
+          "quantity": 1000,
+          "contains_di": "04712832880632"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "04712832886757",
+      "brand_name": "SafeHealth",
+      "version_model": "GVFB21005",
+      "company_name": "PM GLOVES U S A INC",
+      "device_description": "Vinyl Gloves, PF, ECO Exam Aloe XL",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "04712832886801",
+          "package_type": "case",
+          "quantity": 1000,
+          "contains_di": "04712832886757"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810132040214",
+      "brand_name": "HCS",
+      "version_model": "HCS5501",
+      "company_name": "Concordance Healthcare Solutions LLC",
+      "device_description": "Stretch Vinyl Examination Gloves, Powder-Free, DINP/DOP/DEHP Free, Non-Sterile, Medium",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10810132040211",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00810132040214"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810572000892",
+      "brand_name": "OmniTrustTM",
+      "version_model": "313-14",
+      "company_name": "Omni International Corp.",
+      "device_description": "Vinyl Examination Glove Powder Free X-Large",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 150,
+      "packages": [
+        {
+          "package_di": "50810572000897",
+          "package_type": "Shipper Carton",
+          "quantity": 10,
+          "contains_di": "00810572000892"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "20744514001781",
+      "brand_name": "Uniseal Vinyl Care",
+      "version_model": "017-8",
+      "company_name": "Uniseal",
+      "device_description": "Vinyl Powder Free Clear Exam Gloves, Non-Sterile, Size L",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "30744514001788",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "20744514001781"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00854344002554",
+      "brand_name": "PremierPro",
+      "version_model": "4072",
+      "company_name": "PRESTIGE AMERITECH, LTD.",
+      "device_description": "PremierPro Powder Free Standard Stretch Vinyl Exam Glove Small 100 count",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10854344002551",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "00854344002554"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810115891352",
+      "brand_name": "Diska Nulife",
+      "version_model": "DNL-VG-L",
+      "company_name": "Diska LLC",
+      "device_description": "Clear Vinyl Gloves - Single box(Large)",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00810115891369",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "00810115891352"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00699320702543",
+      "brand_name": "AMBITEX",
+      "version_model": "VLG221",
+      "company_name": "Cardinal Health 200, LLC",
+      "device_description": "AMBITEX GLV EXAM NON-STERILE STRETCH VINYL V221  CREAM POWDER-FREE LARGE SMOOTH STANDARD LENGTH 10/100",
+      "gmdn_term": "Nitrile examination/treatment glove, non-powdered, sterile",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10699320702540",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "00699320702543"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850084857287",
+      "brand_name": "MedClick",
+      "version_model": "MC-VGPF-2014",
+      "company_name": "MedClick LLC",
+      "device_description": null,
+      "gmdn_term": "Surgical/examination garment kit",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00850084857089",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00850084857287"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "10840330702253",
+      "brand_name": "ProCure",
+      "version_model": "PCM500",
+      "company_name": "Twin Med, LLC",
+      "device_description": "Max Vinyl Exam Gloves PF Small - 100ea/bx 10bx/cs",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "30840330702257",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "10840330702253"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810132040467",
+      "brand_name": "HCS",
+      "version_model": "HCS44010",
+      "company_name": "Concordance Healthcare Solutions LLC",
+      "device_description": "Vinyl Examination Gloves, Powder-Free, DINP/DOP/DEHP Free, Non-Sterile, Small",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10810132040464",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00810132040467"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00811114031060",
+      "brand_name": "Reflex",
+      "version_model": "RF500S",
+      "company_name": "Unisafe Inc.",
+      "device_description": "Powder-Free Vinyl Examination Gloves",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00811114031107",
+          "package_type": "Shipper Carton",
+          "quantity": 10,
+          "contains_di": "00811114031060"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00649531210528",
+      "brand_name": "Vinyl PF",
+      "version_model": "SPF100S",
+      "company_name": "Dash Medical Gloves, Inc.",
+      "device_description": "Vinyl Exam Glove, Clear, Small",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00649531241027",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00649531210528"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00369771001389",
+      "brand_name": "Gloves",
+      "version_model": "12291",
+      "company_name": "GERI-GENTLE CORPORATION",
+      "device_description": "GLOVES VINYL PF N/S LG",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00369771001396",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "00369771001389"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810206691618",
+      "brand_name": "Basic",
+      "version_model": "SMPF3002",
+      "company_name": "BASIC MEDICAL TECHNOLOGY INC.",
+      "device_description": "Vinyl Synmax Exam Gloves",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10810206691615",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "00810206691618"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "04712832881523",
+      "brand_name": "SafeHealth",
+      "version_model": "SVF5C4",
+      "company_name": "PM GLOVES U S A INC",
+      "device_description": "VINYL EXAMINATION GLOVES, Clear (L)",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "04712832881578",
+          "package_type": "Case",
+          "quantity": 1000,
+          "contains_di": "04712832881523"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850028934685",
+      "brand_name": "Schneider",
+      "version_model": "VSFK3112",
+      "company_name": "Avatech Corp.",
+      "device_description": "Schneider Disposable Powder-Free Vinyl Synthetic Exam Gloves, 4 mil, Black, VSFK3112, 50ct Box, Size M",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00810112471342",
+          "package_type": "Case",
+          "quantity": 20,
+          "contains_di": "00850028934685"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850001981118",
+      "brand_name": "VGUARD",
+      "version_model": "A21A51",
+      "company_name": "Vanguard International Solutions, LLC",
+      "device_description": "Vinyl Powder Free Stretch Exam Gloves - Small",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "00850001981125",
+          "package_type": "Box",
+          "quantity": 100,
+          "contains_di": "00850001981118"
+        },
+        {
+          "package_di": "00850001981132",
+          "package_type": "Master Case",
+          "quantity": 10,
+          "contains_di": "00850001981125"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "H726309313",
+      "brand_name": "MICRO-TOUCH",
+      "version_model": "3093",
+      "company_name": "Ansell Healthcare Product",
+      "device_description": "MICRO-TOUCH Elite 313010 Size L, Vinyl Powder-Free Examination Glove",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "H726309324",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "H726309313"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00096295142662",
+      "brand_name": "LEADER",
+      "version_model": "5832605",
+      "company_name": "Cardinal Health 110, Inc.",
+      "device_description": "LDR Vinyl Exam Gloves Medium non-sterile Powder-free 100 count",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "50096295142667",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "00096295142662"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00609626000250",
+      "brand_name": "METRO-PACIFICA",
+      "version_model": "T-1080",
+      "company_name": "Metro Medical Supply",
+      "device_description": "Patient Examination Gloves Powder-Free Vinyl L",
+      "gmdn_term": "Nitrile examination/treatment glove, non-powdered, non-antimicrobial",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00609626000243",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "00609626000250"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00885380134978",
+      "brand_name": "CARDINAL HEALTH",
+      "version_model": "8887I",
+      "company_name": "Cardinal Health 200, LLC",
+      "device_description": "Vinyl Exam Gloves Clear",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "50885380134973",
+          "package_type": "CASE",
+          "quantity": 10,
+          "contains_di": "00885380134978"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00854344002561",
+      "brand_name": "PremierPro",
+      "version_model": "4073",
+      "company_name": "PRESTIGE AMERITECH, LTD.",
+      "device_description": "PremierPro Powder Free Standard Stretch Vinyl Exam Glove Medium 100 count",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10854344002568",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "00854344002561"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810206690963",
+      "brand_name": "Basic",
+      "version_model": "SGBE8003",
+      "company_name": "BASIC MEDICAL TECHNOLOGY INC.",
+      "device_description": "Vinyl Synmax Exam Gloves",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10810206690960",
+          "package_type": null,
+          "quantity": 10,
+          "contains_di": "00810206690963"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00854344002547",
+      "brand_name": "PremierPro",
+      "version_model": "4071",
+      "company_name": "PRESTIGE AMERITECH, LTD.",
+      "device_description": "PremierPro Powder Free Standard Stretch Vinyl Exam Glove X-Small 100 count",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "10854344002544",
+          "package_type": "case",
+          "quantity": 10,
+          "contains_di": "00854344002547"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "06974034761593",
+      "brand_name": "BYTECH",
+      "version_model": "Powder free, M",
+      "company_name": "ANHUI BYTECH MEDICAL SUPPLIES CO., LTD.",
+      "device_description": null,
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 1,
+      "packages": [
+        {
+          "package_di": "16974034761590",
+          "package_type": "carton",
+          "quantity": 10,
+          "contains_di": "06974034761593"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00311917006598",
+      "brand_name": "Walgreens",
+      "version_model": "296463",
+      "company_name": "WALGREEN CO.",
+      "device_description": "Walgreens Exam Glove Flex Vinyl Mediums 50ct",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 50,
+      "packages": [
+        {
+          "package_di": "10311917006595",
+          "package_type": "Case",
+          "quantity": 20,
+          "contains_di": "00311917006598"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00612479102231",
+      "brand_name": "McKesson",
+      "version_model": "14-118",
+      "company_name": "MCKESSON MEDICAL-SURGICAL INC.",
+      "device_description": "GLOVE, EXAM VNYL PF LG (100/BX)",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "00612479102248",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00612479102231"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "20818634020042",
+      "brand_name": "Bosma Enterprises",
+      "version_model": "72-90602",
+      "company_name": "Bosma Enterprises",
+      "device_description": "Vinyl Powder Free Exam Gloves Medium 100/Box",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "30818634020049",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "20818634020042"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00850022371455",
+      "brand_name": "PrimaPro",
+      "version_model": "614-45",
+      "company_name": "PRIMARY PRODUCTS COMPANY",
+      "device_description": "PrimaPro GentleGuard Blue Synthetic Powder Free Examination Glove X-Large, 100 Gloves/Box, 10 Box/Case, 1,000 Gloves/Case, Ambidextrous, Beaded Cuff, Non-Sterile, Single Use",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "10850022371452",
+          "package_type": "Case",
+          "quantity": 10,
+          "contains_di": "00850022371455"
+        }
+      ]
+    },
+    {
+      "category": "EXAM_GLOVE",
+      "primary_di": "00810572001288",
+      "brand_name": "OmniTrustTM",
+      "version_model": "312-12",
+      "company_name": "Omni International Corp.",
+      "device_description": "Vinyl Examination Glove Powder Free Medium",
+      "gmdn_term": "Vinyl examination/treatment glove, non-powdered",
+      "device_count_in_base_package": 100,
+      "packages": [
+        {
+          "package_di": "50810572001283",
+          "package_type": "Shipper Carton",
+          "quantity": 10,
+          "contains_di": "00810572001288"
+        }
+      ]
+    }
+  ]
+}
